@@ -19,9 +19,9 @@
 <a href="https://aws.amazon.com" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/1200px-Amazon_Web_Services_Logo.svg.png" alt="aws" width="40" height="40"/> </a> 
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kelvin960606&" alt="kelvin960606" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kelvin960606&" alt="kelvin960606" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kelvin960606" alt="kelvin960606" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=kelvin960606" alt="kelvin960606" /></p>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kelvin960606)](https://github.com/anuraghazra/github-readme-stats)
 
