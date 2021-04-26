@@ -23,6 +23,8 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kelvin960606" alt="kelvin960606" /></p>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kelvin960606)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!---
 kelvin960606/kelvin960606 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
