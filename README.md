@@ -1,14 +1,14 @@
 - 👋 Hi, I’m Kelvin 
 - 👀 I’m interested in progaming
- - Flutter
- - Android
- - IOS
+  - Flutter
+  - Android
+  - IOS
 
 - 🌱 I’m currently learning ...
- - Laravel
- - Vue JS
- - React JS
- - Networking
+  - Laravel
+  - Vue JS
+  - React JS
+  - Networking
 
 - 📫 How to reach me ...
   - LinkedIn: https://www.linkedin.com/in/kai-wen-tam-670136168
