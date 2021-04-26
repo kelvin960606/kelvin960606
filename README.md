@@ -1,13 +1,15 @@
 - 👋 Hi, I’m Kelvin 
+  - 3 years programming experience on Mobile App Development (Flutter, React Native , Android and IOS Native).
+
 - 👀 I’m interested in progaming
   - Flutter
   - Android
   - IOS
+  - React JS
 
 - 🌱 I’m currently learning ...
   - Laravel
   - Vue JS
-  - React JS
   - Networking
 
 - 📫 How to reach me ...
